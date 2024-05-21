@@ -26,10 +26,9 @@ ___
 
 ☁️ Environments, frameworks, libraries & others:
 
-
 | *React | *NodeJS | *Flask | *Spring |
 |---|---|---|---|
-|   |   |   |   |
+|   |   |   |![](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)|
 
 | *Git | Docker |
 |---|---|
