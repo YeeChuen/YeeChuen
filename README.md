@@ -33,6 +33,8 @@ ___
 |<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="55" height="55"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Biopython_logo.png/800px-Biopython_logo.png" width="55"/>|<img src="https://www.azoai.com/images/equipments/ImageForEquipment_519_16957228613756657.png" width="55"/>|
 
 |** <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>|** <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>|*  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>|
+|---|---|---|
+|**|**|*|
 
 📫 Links:
 - tychuen98@gmail.com
