@@ -1,4 +1,5 @@
 <video width="99%" height="540" autoplay loop muted><source src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" type="video/mp4"></video>
+<img src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" width="100%" height="250"/>
 
 ## Hi there 👋
 
