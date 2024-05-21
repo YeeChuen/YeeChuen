@@ -42,11 +42,11 @@ ___
 
 | *Sklearn | *TensorFlow | *PyTorch |
 |---|---|---|
-|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="55" height="55"/>|
 
 | *Numpy | *Matplotlib | Pandas |
 |---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="55" height="55"/>|
 
 | *MySQL | *PostgreSQL | SQLite |
 |---|---|---|
