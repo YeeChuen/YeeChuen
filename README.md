@@ -52,9 +52,9 @@ SQLite
 
 📫 Links:
 - tychuen98@gmail.com
-- [![GitHub Badge](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)](https://github.com/YeeChuen)
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeechuenteoh)
-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-blue?style=flat)](https://yeechuensite.web.app/)
+- [![GitHub Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YeeChuen)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeechuenteoh)
+- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-red?style=flat-square)](https://yeechuensite.web.app/)
 
 <!--
 **YeeChuen/YeeChuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
