@@ -1,6 +1,5 @@
-![](https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif)
 ## Hi there 👋
-
+![](https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif)
 I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.
 
 ___
