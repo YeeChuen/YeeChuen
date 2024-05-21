@@ -18,42 +18,41 @@ ___
 💻 Languages:
 | *Python | *JavaScript | *Java | *SQL |
 |---|---|---|---|
-|   |   |   |   |
+|![](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)|![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)|![](https://img.shields.io/badge/SQL-darkblue?style=flat-square)|
 
 | *HTML | *CSS | C++ | Swift |
 |---|---|---|---|
-|   |   |   |   |
+|![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)|![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)|![](https://img.shields.io/badge/C++-green?style=flat-square)|![](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)|
 
 ☁️ Environments, frameworks, libraries & others:
 
 | *React | *NodeJS | *Flask | *Spring |
 |---|---|---|---|
-|   |   |   |
-![](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)|
+|![]()|![]()|![]()|![](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)|
 
 | *Git | Docker |
 |---|---|
-|   |   |
+|![]()|![]()|
 
 | *Selenium | *Request |
 |---|---|
-|   |   |
+|![]()|![]()|
 
 | *Sklearn | *TensorFlow | *PyTorch |
 |---|---|---|
-|   |   |   |
+|![]()|![]()|![]()|
 
 | *Numpy | *Matplotlib | Pandas |
 |---|---|---|
-|   |   |   |
+|![]()|![]()|![]()|
 
 | *MySQL | *PostgreSQL | SQLite |
 |---|---|---|
-|   |   |   |
+|![]()|![]()|![]()|
 
 | *BioPython | *PyRosetta |
 |---|---|
-|   |   |
+|![]()|![]()|
 
 
 📫 Links:
