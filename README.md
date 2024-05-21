@@ -15,12 +15,43 @@ ___
 - Master of Computer Science from Iowa State University
 - Bachelor of Architecture from Iowa State University
 
-⚡ Languages:
-| Python | JavaScript | Java | SQL | C++ | Swift |
-|---|---|---|---|---|---|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|||
+💻 Languages:
+| *Python | *JavaScript | *Java | *SQL |
+|---|---|---|---|
+|   |   |   |   |
 
-📖 Environments, frameworks, libraries & others:
+| *HTML | *CSS | C++ | Swift |
+|---|---|---|---|
+|   |   |   |   |
+
+☁️ Environments, frameworks, libraries & others:
+
+| React | Flask | Java | SQL | C++ | Swift |
+|---|---|---|---|---|---|
+|||||||
+
+*React
+*Flask
+*NodeJS
+*Git
+Docker
+*JavaSpring
+*Selenium
+*Request
+*Sklearn
+*TensorFlow
+*PyTorch
+*Numpy
+Pandas
+*Matplotlib
+*MySQL
+*PostgreSQL
+SQLite
+*BioPython
+*PyRosetta
+
+👤 Links:
+
 
 <!--
 **YeeChuen/YeeChuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
