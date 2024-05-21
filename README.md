@@ -24,7 +24,7 @@ ___
 
 | *HTML | *CSS | C++ | Swift |
 |---|---|---|---|
-|![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)|![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)|![](https://img.shields.io/badge/C++-green?style=flat-square)|![](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>|<img src="https://img.shields.io/badge/C++-green?style=flat-square" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="55" height="55"/>|
 
 ☁️ Environments, frameworks, libraries & others:
 
