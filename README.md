@@ -18,7 +18,7 @@ ___
 💻 Languages:
 | *Python | *JavaScript | *Java | *SQL |
 |---|---|---|---|
-|![](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)|![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)|![](https://img.shields.io/badge/SQL-darkblue?style=flat-square)|
+|<img src="[https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" width="55" height="55"/>|![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)|![](https://img.shields.io/badge/SQL-darkblue?style=flat-square)|
 
 | *HTML | *CSS | C++ | Swift |
 |---|---|---|---|
