@@ -7,7 +7,6 @@ ___
 
 🔭/🌱 I’m currently working/learning:
 - Deep dive into frontend development, deployment using React JS.
-- 
 - Revamp my online portfolio
 
 💬 Ask me about:
