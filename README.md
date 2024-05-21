@@ -34,13 +34,15 @@ ___
 
 | *MySQL | *PostgreSQL | SQLite |
 |---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>|
+|** <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>|** <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>|*  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="55" height="55"/>|
 
 📫 Links:
 - tychuen98@gmail.com
 - [![GitHub Badge](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/YeeChuen)
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeechuenteoh)
 - [![Portfolio Badge](https://img.shields.io/badge/Portfolio-red?style=flat-square)](https://yeechuensite.web.app/)
+
+number of * indicate proficiency
 
 <!--
 **YeeChuen/YeeChuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
