@@ -1,4 +1,3 @@
-![code rain](https://sb0xw.csb.app/)
 ![](https://github.com/YeeChuen/assets/code_rain.gif)
 ## Hi there 👋
 
