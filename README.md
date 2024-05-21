@@ -12,6 +12,7 @@ ___
 
 💬 Ask me about:
 - Web development
+- Artificial Intelligence
 
 📖 My background:
 - Master of Computer Science from Iowa State University
@@ -32,5 +33,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeChuen&layout=compact)
