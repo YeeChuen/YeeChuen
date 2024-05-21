@@ -11,10 +11,11 @@ ___
 
 💬 Ask me about:
 - Web development
+- Full stack development
 - Artificial Intelligence
 
 🏫 My background:
-- Master of Computer Science from Iowa State University
+- Master of Computer Science from Iowa State University (Thesis in virus mutation prediction)
 - Bachelor of Architecture from Iowa State University
 
 💻 Languages:
