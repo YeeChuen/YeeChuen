@@ -1,4 +1,4 @@
-![](https://github.com/YeeChuen/assets/code_rain.gif)
+![](https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif)
 ## Hi there 👋
 
 I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.
