@@ -18,6 +18,8 @@ ___
 - Master of Computer Science from Iowa State University (Thesis in virus mutation prediction)
 - Bachelor of Architecture from Iowa State University
 
+___
+
 💻 Languages:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="80" height="80"/>|<img src="https://img.shields.io/badge/SQL-darkblue?style=flat-square" width="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" height="80"/>|<img src="https://img.shields.io/badge/C++-green?style=flat-square" width="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" width="80" height="80"/>|
 |---|---|---|---|---|---|---|---|
