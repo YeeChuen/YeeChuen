@@ -1,6 +1,7 @@
-    <video width="99%" height="540" autoplay loop muted>
-        <source src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" type="mp4" >
-    </video>
+<video width="99%" height="540" autoplay loop muted>
+    <source src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" type="mp4" >
+</video>
+
 ## Hi there 👋
 
 I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.
