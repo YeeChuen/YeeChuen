@@ -67,4 +67,6 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeChuen&layout=compact)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/YeeChuen?theme=light,unicorn)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)
