@@ -26,29 +26,35 @@ ___
 
 ☁️ Environments, frameworks, libraries & others:
 
-| React | Flask | Java | SQL | C++ | Swift |
-|---|---|---|---|---|---|
-|||||||
 
-*React
-*Flask
-*NodeJS
-*Git
-Docker
-*JavaSpring
-*Selenium
-*Request
-*Sklearn
-*TensorFlow
-*PyTorch
-*Numpy
-Pandas
-*Matplotlib
-*MySQL
-*PostgreSQL
-SQLite
-*BioPython
-*PyRosetta
+| *React | *NodeJS | *Flask | *Spring |
+|---|---|---|---|
+|   |   |   |   |
+
+| *Git | Docker |
+|---|---|
+|   |   |
+
+| *Selenium | *Request |
+|---|---|
+|   |   |
+
+| *Sklearn | *TensorFlow | *PyTorch |
+|---|---|---|
+|   |   |   |
+
+| *Numpy | *Matplotlib | Pandas |
+|---|---|---|
+|   |   |   |
+
+| *MySQL | *PostgreSQL | SQLite |
+|---|---|---|
+|   |   |   |
+
+| *BioPython | *PyRosetta |
+|---|---|
+|   |   |
+
 
 📫 Links:
 - tychuen98@gmail.com
