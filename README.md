@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ___
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=YeeChuen&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=YeeChuen&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeChuen&layout=compact)
 
