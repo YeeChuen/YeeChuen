@@ -24,21 +24,21 @@ ___
 
 | *HTML | *CSS | C++ | Swift |
 |---|---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>|<img src="https://img.shields.io/badge/C++-green?style=flat-square" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>|<img src="https://img.shields.io/badge/C++-green?style=flat-square" width="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" width="55" height="55"/>|
 
 ☁️ Environments, frameworks, libraries & others:
 
 | *React | *NodeJS | *Flask | *Spring |
 |---|---|---|---|
-|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55"/>|
 
 | *Git | Docker |
 |---|---|
-|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>|
 
 | *Selenium | *Request |
 |---|---|
-|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="55" height="55"/>|<img src="https://pypi-camo.freetls.fastly.net/c034579404e8ff6c46e52bef00a81315fba873a8/687474703a2f2f646f63732e707974686f6e2d72657175657374732e6f72672f656e2f6d61737465722f5f7374617469632f72657175657374732d736964656261722e706e67" height="55"/>|
 
 | *Sklearn | *TensorFlow | *PyTorch |
 |---|---|---|
