@@ -2,7 +2,7 @@
 
 <img src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" width="100%" height="250"/>
 
-I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.
+I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.    [![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)](https://github.com/YeeChuen)
 
 ___
 
@@ -72,5 +72,3 @@ ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeeChuen&layout=compact)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/YeeChuen?theme=light,unicorn)](https://leetcode.com/u/YeeChuen/)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)](https://github.com/YeeChuen)
