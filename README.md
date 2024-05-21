@@ -1,3 +1,6 @@
+    <video width="99%" height="540" autoplay loop muted>
+        <source src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" type="mp4" >
+    </video>
 ## Hi there 👋
 
 I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.
@@ -18,7 +21,7 @@ ___
 💻 Languages:
 | *Python | *JavaScript | *Java | *SQL |
 |---|---|---|---|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="55" height="55"/>|![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)|![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)|![](https://img.shields.io/badge/SQL-darkblue?style=flat-square)|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55" height="55"/>|<img src="https://img.shields.io/badge/SQL-darkblue?style=flat-square" width="55" height="55"/>|
 
 | *HTML | *CSS | C++ | Swift |
 |---|---|---|---|
@@ -28,31 +31,31 @@ ___
 
 | *React | *NodeJS | *Flask | *Spring |
 |---|---|---|---|
-|![]()|![]()|![]()|![](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55"/>|
 
 | *Git | Docker |
 |---|---|
-|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 | *Selenium | *Request |
 |---|---|
-|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 | *Sklearn | *TensorFlow | *PyTorch |
 |---|---|---|
-|![]()|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 | *Numpy | *Matplotlib | Pandas |
 |---|---|---|
-|![]()|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 | *MySQL | *PostgreSQL | SQLite |
 |---|---|---|
-|![]()|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 | *BioPython | *PyRosetta |
 |---|---|
-|![]()|![]()|
+|<img src="" width="55" height="55"/>|<img src="" width="55" height="55"/>|
 
 
 📫 Links:
