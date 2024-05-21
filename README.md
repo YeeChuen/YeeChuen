@@ -69,4 +69,4 @@ ___
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/YeeChuen?theme=light,unicorn)](https://leetcode.com/u/YeeChuen/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)
+[![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)](https://github.com/YeeChuen)
