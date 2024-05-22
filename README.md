@@ -1,4 +1,5 @@
 ## Hi there 👋
+---
 
 <img src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" width="100%" height="250"/>
 
