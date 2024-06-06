@@ -37,9 +37,9 @@ ___
 |---|---|---|---|---|---|---|---|
 |****|***|***|****|*****|**|***|***|
 
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="80" height="80"/>|
-|---|---|---|
-|****|***|*|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="80" height="80"/>|<img src="" width="80" height="80"/>|<img src="" width="80" height="80"/>|<img src="" width="80" height="80"/>|<img src="" width="80" height="80"/>|<img src="" width="80" height="80"/>|
+|---|---|---|---|---|---|---|---|
+|****|***|*|-|-|-|-|-|
 
 number of * indicate proficiency
 
