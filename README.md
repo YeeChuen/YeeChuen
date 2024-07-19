@@ -22,9 +22,9 @@ ___
 ___
 
 💻 Languages:
-|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" width="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" width="50" height="50"/>|
-|---|---|---|---|---|---|---|---|
-|*****|*****|****|****|****|****|*|*|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" width="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" width="50" height="50"/>|<img src="https://t4.ftcdn.net/jpg/04/72/65/73/360_F_472657366_6kV9ztFQ3OkIuBCkjjL8qPmqnuagktXU.jpg" width="50" height="50"/>|<img src="https://t4.ftcdn.net/jpg/04/72/65/73/360_F_472657366_6kV9ztFQ3OkIuBCkjjL8qPmqnuagktXU.jpg" width="50" height="50"/>|
+|---|---|---|---|---|---|---|---|---|---|
+|*****|*****|****|****|****|****|*|*|||
 
 ☁️ Environments, frameworks, libraries & others:
 
