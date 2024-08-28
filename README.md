@@ -1,5 +1,4 @@
-## Hi there 👋 
-I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.    [![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)](https://github.com/YeeChuen)
+## Hi there 👋 I am [Yee Chuen Teoh](https://yeechuensite.web.app/), your friendly neighborhood software developer.    [![Profile Views](https://komarev.com/ghpvc/?username=YeeChuen&style=flat-square&color=brightgreen)](https://github.com/YeeChuen)
 ---
 
 <img src="https://github.com/YeeChuen/YeeChuen/blob/main/assets/code_name.gif" width="100%" height="250"/>
