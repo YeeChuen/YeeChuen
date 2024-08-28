@@ -9,8 +9,8 @@ ___
 - Deep dive into frontend development, deployment using React JS
 
 💬 Ask me about:
-- Web development
 - Full stack development
+- Data science
 - Artificial Intelligence
 
 🏫 My background:
