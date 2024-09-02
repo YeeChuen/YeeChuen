@@ -6,7 +6,7 @@
 ___
 
 🔭/🌱 I’m currently working/learning:
-- Deep dive into frontend development, deployment using React JS
+- Deep dive into frontend development, deployment using React TS/JS
 
 💬 Ask me about:
 - Full stack development
@@ -15,7 +15,7 @@ ___
 
 🏫 My background:
 - Master of Computer Science from Iowa State University (Thesis in virus mutation prediction)
-- Bachelor of Architecture from Iowa State University
+- Bachelor of Architecture from Iowa State University (Minor in Computer Science)
 
 ___
 
